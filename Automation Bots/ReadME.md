@@ -2,9 +2,9 @@ To make it completely *seamless** here is how the bot works.
 
 **my_bot_project**/          **<-- Your main project folder**
 │ \
-├── \ .git\              **<-- Hidden folder that tracks changes (Git initializes this)**\
-├──  \auto_uploader.py\     **<-- The Python automation script we just looked at**\
-└──  \bot.py\               **<-- Your actual Discord bot code**
+├──  .git\              **<-- Hidden folder that tracks changes (Git initializes this)**\
+├──  auto_uploader.py\     **<-- The Python automation script we just looked at**\
+└──  bot.py\               **<-- Your actual Discord bot code**
 
 or simply\
 
