@@ -7,13 +7,13 @@ An automated Python script that monitors your local project environment and inst
 ## 🗺️ System Architecture
 
   [ Your Local Project Folder ] 
-                │
+                │ \
                 ▼  (Step 1: git add .)
        [ The Staging Area ]
-                │
+                │ \
                 ▼  (Step 2: git commit)
      [ Your Local Git History ]
-                │
+                │ \
                 ▼  (Step 3: git push)
        [ GitHub Repository ]
 
